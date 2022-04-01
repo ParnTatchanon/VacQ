@@ -144,4 +144,4 @@ exports.getVacCenters= async (req,res,next)=>{
             });
         else res.send(data);
     });
-};
+}
