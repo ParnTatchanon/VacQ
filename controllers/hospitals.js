@@ -1,6 +1,6 @@
 const { param } = require('express/lib/request');
 const Hospital = require('../models/Hospital');
-const VacCenter = require('../models/vacCenter');
+// const VacCenter = require('../models/vacCenter');
 //@desc     Get all hospitals
 //@route    GET /api/v1/hospitals
 //@access   Public
